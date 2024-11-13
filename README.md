@@ -1,3 +1,7 @@
+Check here
+Demo  --  manufac-data-analysis63.netlify.app
+
+
 Agriculture Data Analysis Project
 
 This project analyzes agricultural data to provide insights into yearly crop production and crop averages. It uses React and Mantine for the frontend, and the data is processed using custom utility functions to transform and visualize crop production data.
