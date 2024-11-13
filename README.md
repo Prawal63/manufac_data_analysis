@@ -28,11 +28,13 @@ node --version
 
 1. Clone the repository to your local machine:
 
+copy the command and put in terminal 
+
 git clone https://github.com/Prawal63/manufac_data_analysis.git
 
 2. Navigate into the project directory:
 
-cd agriculture-data-analysis
+cd filename
 
 3. Install the dependencies using Yarn:
 
