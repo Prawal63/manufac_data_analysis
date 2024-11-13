@@ -85,3 +85,14 @@ The project uses the following dependencies:
 
 - React, Mantine, TypeScript, Yarn
 
+
+--------------table 2  crop average table--------------
+![table 2 ](https://github.com/user-attachments/assets/2a185c2d-5631-438d-998f-1fd306180c0a)
+
+
+
+------------table 1----------------
+![table 1 ](https://github.com/user-attachments/assets/730f2965-3db4-4238-8eb4-0daba4e3e999)
+
+
+
