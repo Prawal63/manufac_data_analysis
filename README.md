@@ -1,5 +1,5 @@
 Check here
-Demo  --  manufac-data-analysis63.netlify.app
+Demo  -- [ manufac-data-analysis63.netlify.app](https://manufac-data-analysis63.netlify.app/)
 
 
 Agriculture Data Analysis Project
